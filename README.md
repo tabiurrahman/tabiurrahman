@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabiurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tabiurrahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabiurrahman" alt="tabiurrahman" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tabiur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/tabiur_rahman?logo=twitter&style=for-the-badge" alt="tabiur_rahman" /></a> </p>
 
 - 🌱 I’m currently learning **C,Python**
