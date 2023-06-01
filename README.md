@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tabiur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladeshdesh</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/tabiurrahman/tabiurrahman/assets/99625760/f270dda6-c87d-476b-ab0a-8b13d8d6e604)
+****>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabiurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tabiurrahman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tabiur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/tabiur_rahman?logo=twitter&style=for-the-badge" alt="tabiur_rahman" /></a> </p>
